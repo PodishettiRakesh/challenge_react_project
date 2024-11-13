@@ -1,6 +1,6 @@
 import PropTypes from 'prop-types';
-import BlogPost from './BlogPost/BlogPost';
-import './BlogList.css';
+import BlogPost from '../BlogPost/Blogpost';
+// import './BlogList.css';
 
 function BlogList({ posts }) {
   return (
